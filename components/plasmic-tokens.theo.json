@@ -1,0 +1,19 @@
+{
+  "props": [
+    {
+      "name": "Red",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "bWwu48BmUuVX8YJyHDWsVZ",
+        "id": "3K71uvBd3"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
